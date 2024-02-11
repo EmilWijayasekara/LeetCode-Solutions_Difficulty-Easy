@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/1. Two Sum" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1051. Height Checker" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1108. Defanging an IP Address" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/13. Roman to Integer" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1346. Check If N and Its Double Exist" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1389. Create Target Array in the Given Order" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/14. Longest Common Prefix" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1422. Maximum Score After Splitting a String" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1678. Goal Parser Interpretation" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1748. Sum of Unique Elements" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1784. Check if Binary String Has at Most One Segment of Ones" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1812. Determine Color of a Chessboard Square" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1816. Truncate Sentence" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1897. Redistribute Characters to Make All Strings Equal" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1935. Maximum Number of Words You Can Type" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1961. Check If String Is a Prefix of Array" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/20. Valid Parentheses" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2011. Final Value of Variable After Performing Operations" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2235. Add Two Integers" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2413. Smallest Even Multiple" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2441. Largest Positive Integer That Exists With Its Negative" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2469. Convert the Temperature" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2744. Find Maximum Number of String Pairs" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2942. Find Words Containing Character" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2960. Count Tested Devices After Test Operations" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2974. Minimum Number Game" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/412. Fizz Buzz" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/771. Jewels and Stones" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/9. Palindrome Number" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
