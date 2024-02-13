@@ -1,5 +1,5 @@
 
-# LeetCode Solutions
+# LeetCode Solutions (Easy 50 Challenge)
 
 Welcome to my repository of LeetCode solutions! Here, you'll find my implementations of various problems from LeetCode.
 
