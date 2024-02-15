@@ -1,5 +1,5 @@
 
-# LeetCode Solutions
+# LeetCode Solutions (Easy 50 Challenge)
 
 Welcome to my repository of LeetCode solutions! Here, you'll find my implementations of various problems from LeetCode.
 
@@ -27,6 +27,4 @@ Please make sure to follow the contribution guidelines and code of conduct.
 
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/emil-wijayasekara/)
 
-If you have any questions or just want to connect, feel free to reach out!
-
-Happy coding! 🚀
+If you have any questions or just want to connect, feel free to reach out!!!
