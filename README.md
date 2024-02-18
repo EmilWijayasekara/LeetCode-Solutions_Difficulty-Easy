@@ -28,4 +28,4 @@ Please make sure to follow the contribution guidelines and code of conduct.
 
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/emil-wijayasekara/)
 
-If you have any questions or just want to connect, feel free to reach out
+If you have any questions or just want to connect, feel free to reach out ...
