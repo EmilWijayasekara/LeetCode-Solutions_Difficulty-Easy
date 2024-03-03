@@ -3,4 +3,3 @@ class Solution {
         return !s.contains("01");
     }
 }
-// https://github.com/EmilWijayasekara
