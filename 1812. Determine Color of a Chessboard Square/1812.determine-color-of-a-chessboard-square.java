@@ -8,4 +8,3 @@ class Solution {
         else return true;
     }
 }
-//  https://github.com/EmilWijayasekara
