@@ -6,5 +6,3 @@ class Solution {
         return truncatedSentence.trim();
     }
 }
-//https://github.com/EmilWijayasekara
-
