@@ -1,10 +1,3 @@
-/*
- * @lc app=leetcode id=2469 lang=java
- *
- * [2469] Convert the Temperature
- */
-
-// @lc code=start
 class Solution {
     public double[] convertTemperature(double celsius) {
         double[] tempArray = new double[2];
@@ -13,5 +6,3 @@ class Solution {
         return tempArray;
     }
 }
-// @lc code=end
-
