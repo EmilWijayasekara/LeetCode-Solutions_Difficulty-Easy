@@ -1,10 +1,3 @@
-/*
- * @lc app=leetcode id=412 lang=java
- *
- * [412] Fizz Buzz
- */
-
-// @lc code=start
 class Solution {
     public List<String> fizzBuzz(int n) {
         List<String> list = new LinkedList<>();
@@ -30,5 +23,3 @@ class Solution {
         return list;
     }
 }
-// @lc code=end
-
